@@ -58,5 +58,15 @@
     "width": 89,
     "height": 111,
     "priority": 6
+  },
+  "GalatasarayLogo": {
+    "draw": true,
+    "name": "gslogo.png",
+    "repair": true,
+    "x": -533,
+    "y": -1949,
+    "width": 122,
+    "height": 152,
+    "priority": 7
   }
 }
