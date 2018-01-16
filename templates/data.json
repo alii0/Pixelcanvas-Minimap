@@ -78,5 +78,25 @@
     "width": 595,
     "height": 387,
     "priority": 8
+    },
+  "GalatasarayDiscord": {
+    "draw": true,
+    "name": "gsyazi.png",
+    "repair": true,
+    "x": -688,
+    "y": -1937,
+    "width": 155,
+    "height": 27,
+    "priority": 9
+    },
+  "GsMetinOktay": {
+    "draw": true,
+    "name": "gsmetinoktay.png",
+    "repair": true,
+    "x": -645,
+    "y": -1885,
+    "width": 64,
+    "height": 64,
+    "priority": 10
     }
 }
