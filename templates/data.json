@@ -98,5 +98,15 @@
     "width": 64,
     "height": 64,
     "priority": 10
+    },
+  "MedyaKim": {
+    "draw": true,
+    "name": "medyakim.png",
+    "repair": true,
+    "x": -290,
+    "y": -1920,
+    "width": 119,
+    "height": 110,
+    "priority": 11
     }
 }
