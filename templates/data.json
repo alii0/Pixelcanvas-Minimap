@@ -18,15 +18,5 @@
     "width": 617,
     "height": 75,
     "priority": 2
-  },
-  "AnaBayrak": {
-    "draw": true,
-    "name": "bayrak.png",
-    "repair": true,
-    "x": -205,
-    "y": -2192,
-    "width": 1227,
-    "height": 726,
-    "priority": 3
-  }
+  } 
 }
