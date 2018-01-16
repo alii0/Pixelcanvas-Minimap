@@ -48,5 +48,15 @@
     "width": 408,
     "height": 236,
     "priority": 5
+  },
+    "GalatasarayAslan": {
+    "draw": true,
+    "name": "gsaslan.png",
+    "repair": true,
+    "x": -400,
+    "y": -1933,
+    "width": 89,
+    "height": 111,
+    "priority": 6
   }
 }
