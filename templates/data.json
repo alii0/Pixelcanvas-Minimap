@@ -118,5 +118,15 @@
     "width": 289,
     "height": 250,
     "priority": 12
+    },
+   "BesiktasLogo": {
+    "draw": true,
+    "name": "BesiktasLogo.png",
+    "repair": true,
+    "x": -265,
+    "y": -2622,
+    "width": 113,
+    "height": 144,
+    "priority": 13
     }
 }
