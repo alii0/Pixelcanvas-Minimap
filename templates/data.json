@@ -68,5 +68,14 @@
     "width": 122,
     "height": 152,
     "priority": 7
-  }
+  },
+    "FenrbahceProje": {
+    "draw": true,
+    "name": "FenerProje.png",
+    "repair": true,
+    "x": -902,
+    "y": -2593,
+    "width": 595,
+    "height": 387,
+    "priority": 8
 }
