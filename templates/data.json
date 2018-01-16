@@ -28,5 +28,15 @@
     "width": 1227,
     "height": 726,
     "priority": 3
-   }
+   },
+  "pkkUzerineBayrak": {
+    "draw": true,
+    "name": "minitr.png",
+    "repair": true,
+    "x": -3888,
+    "y": -204,
+    "width": 126,
+    "height": 90,
+    "priority": 4
+  }
 }
