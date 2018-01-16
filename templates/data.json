@@ -8,5 +8,14 @@
     "width": 200,
     "height": 200,
     "priority": 1
-  }
+  },
+"DiscordYazisi": {
+    "draw": true,
+    "name": "DiscordTR.png",
+    "repair": true,
+    "y": -1424,
+    "x": 25,
+    "width": 617,
+    "height": 75,
+    "priority": 2
 }
