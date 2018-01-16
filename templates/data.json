@@ -38,5 +38,15 @@
     "width": 126,
     "height": 90,
     "priority": 4
+  },
+  "AzerbaycanBayragi": {
+    "draw": true,
+    "name": "aze.png",
+    "repair": true,
+    "x": -618,
+    "y": -2192,
+    "width": 408,
+    "height": 236,
+    "priority": 5
   }
 }
