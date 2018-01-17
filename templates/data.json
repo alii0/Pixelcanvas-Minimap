@@ -103,5 +103,12 @@
         "y": -2274,
         "width": 140,
         "height": 81
+            },
+    "AtattukImzali": {
+        "name": "ataturk2.png",
+        "x": -281,
+        "y": -2268,
+        "width": 77,
+        "height": 77
     }
 }
