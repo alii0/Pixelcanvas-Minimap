@@ -89,5 +89,12 @@
         "y": -2622,
         "width": 113,
         "height": 144
+    },
+    "KucukKupa": {
+        "name": "kucukKupa.png",
+        "x": -461,
+        "y": -1796,
+        "width": 40,
+        "height": 60
     }
 }
