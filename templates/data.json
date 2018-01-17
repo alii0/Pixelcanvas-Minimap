@@ -124,12 +124,5 @@
         "y": -2285, 
         "width": 84, 
         "height": 92
-        }, 
-    "BayraginUstu": { 
-        "name": "BayrakUstu.png", 
-        "x": -205, 
-        "y": -2400, 
-        "width": 601, 
-        "height": 177
-    }
-}
+        }
+   }
