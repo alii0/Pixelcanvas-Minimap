@@ -1,7 +1,7 @@
-﻿// ==UserScript==
+// ==UserScript==
 // @name         Pixelcanvas Minimap
 // @namespace    http://tampermonkey.net/
-// @version      3.0
+// @version      3.1
 // @description  Pixelcanvas Minimap
 // @author       Some Anon && Qh0stM4N
 // @match        https://pixelcanvas.io/*
