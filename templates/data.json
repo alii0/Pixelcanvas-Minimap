@@ -124,5 +124,12 @@
         "y": -2285, 
         "width": 84, 
         "height": 92
+        }, 
+    "AtaturkYazisi": { 
+        "name": "ataturk5.png", 
+        "x": 37, 
+        "y": -2887, 
+        "width": 88, 
+        "height": 23
         }
    }
