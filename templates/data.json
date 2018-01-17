@@ -117,5 +117,12 @@
         "y": -2960,
         "width": 121,
         "height": 172
+        }, 
+    "Ataturk": { 
+        "name": "ataturk.png", 
+        "x": 63, 
+        "y": -2285, 
+        "width": 84, 
+        "height": 92
     }
 }
