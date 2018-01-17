@@ -96,5 +96,12 @@
         "y": -1796,
         "width": 40,
         "height": 60
+    },
+    "KayiBayragi": {
+        "name": "kayibayragi.png",
+        "x": 882,
+        "y": -2274,
+        "width": 140,
+        "height": 81
     }
 }
