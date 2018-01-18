@@ -1,6 +1,6 @@
 # Pixelcanvas-Minimap
 pixeltr minimap
-### setup & update URL
+### Kurulum
 #### Adım 1: Teampermonkey kurulumu
 * ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/firefox.png) [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) or Scriptish (Not supported/Addon has been discontinued)
 * ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/chrome.png) [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or Native (Not supported)
@@ -10,5 +10,8 @@ pixeltr minimap
 
 > ##### Note: After installation (which requires restarting your browser), you are now ready to install userscripts.
 
-#### Step 2: UserScript
-[minimap.user.js](https://github.com/Priz001/Pixelcanvas-Minimap/raw/master/minimap.user.js)
+#### Adım 2: UserScript yüklenmesi
+[İndir](https://github.com/Priz001/Pixelcanvas-Minimap/raw/master/minimap.user.js)
+
+### Güncelleme
+[Güncellemeleri denetle](https://github.com/Priz001/Pixelcanvas-Minimap/raw/master/minimap.user.js)
