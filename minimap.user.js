@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Pixelcanvas Minimap
-// @namespace    http://tampermonkey.net/
-// @version      3.1
-// @description  Pixelcanvas Minimap
+// @name         PixelTr Minimap
+// @namespace    http://discord.io/pixeltr
+// @version      3.1.1
+// @description  Pixelcanvas Minimap     ☪ | PixelTurkey | ☪
 // @author       Some Anon && Qh0stM4N
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
