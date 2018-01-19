@@ -20,60 +20,60 @@ Linke tıkladıktan sonra açılan pencereden install denilir ve tamamlanır.
 
 Linke tıkladıktan sonra açılan açılan pencerede guncelleme (varsa) update edilir.
 
-# Tüm Liste
-* VoidGirl
+## Tüm Liste
+#### VoidGirl
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/test.png)
 
-* DiscordYazisi
+#### DiscordYazisi
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/DiscordTR.png)
 
-* AnaBayrak
+#### AnaBayrak
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/bayrak.png)
 
-* pkkUzerineBayrak
+#### pkkUzerineBayrak
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/minitr.png)
 
-* AzerbaycanBayragi
+#### AzerbaycanBayragi
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/aze.png)
 
-* GalatasarayAslan
+#### GalatasarayAslan
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/gsaslan.png)
 
-* GalatasarayLogo
+#### GalatasarayLogo
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/gslogo.png)
 
-* FenrbahceProje
+#### FenrbahceProje
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/FenerProje.png)
 
-* GalatasarayDiscord
+#### GalatasarayDiscord
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/gsyazi.png)
 
-* GsMetinOktay
+#### GsMetinOktay
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/gsmetinoktay.png)
 
-* MedyaKim
+#### MedyaKim
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/medyakim.png)
 
-* 15temmuz
+#### 15temmuz
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/15temmuz.png)
 
-* BesiktasLogo
+#### BesiktasLogo
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/BesiktasLogo.png)
 
-* KucukKupa
+#### KucukKupa
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/kucukKupa.png)
 
-* KayiBayragi
+#### KayiBayragi
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/kayibayragi.png)
 
-* AtaturkImzali
+#### AtaturkImzali
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/ataturk2.png)
 
-* AtaturkImzali2
+#### AtaturkImzali2
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/ataturk3.png)
 
-* Ataturk
+#### Ataturk
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/ataturk.png)
 
-* AtaturkYazisi
+#### AtaturkYazisi
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/ataturk5.png)
