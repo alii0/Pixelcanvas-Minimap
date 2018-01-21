@@ -145,5 +145,12 @@
     "y": -295,
     "width": 148,
     "height": 178
+    },
+  "ZeytinDali": {
+    "name": "zeytind.png",
+    "x": -3848,
+    "y": -110,
+    "width": 40,
+    "height": 30
   }
 }
