@@ -82,4 +82,4 @@ Linke tıkladıktan sonra açılan açılan pencerede guncelleme (varsa) update 
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/Kartal.png)
 
 #### TSKlogosu
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/tskpixel.png)
+![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/tsk.png)
