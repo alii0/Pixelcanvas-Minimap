@@ -80,3 +80,6 @@ Linke tıkladıktan sonra açılan açılan pencerede guncelleme (varsa) update 
 
 #### BesiktasKartal
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/Kartal.png)
+
+#### TSKlogosu
+![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/tskpixel.png)
