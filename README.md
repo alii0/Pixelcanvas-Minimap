@@ -77,3 +77,6 @@ Linke tıkladıktan sonra açılan açılan pencerede guncelleme (varsa) update 
 
 #### AtaturkYazisi
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/ataturk5.png)
+
+#### BesiktasKartal
+![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/Kartal.png)
