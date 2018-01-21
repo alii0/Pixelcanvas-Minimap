@@ -83,3 +83,6 @@ Linke tıkladıktan sonra açılan açılan pencerede guncelleme (varsa) update 
 
 #### TSKlogosu
 ![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/tsk.png)
+
+#### ZeytinDali
+![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/zeytind.png)
