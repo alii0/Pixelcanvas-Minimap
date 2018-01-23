@@ -20,94 +20,74 @@ Linke tıkladıktan sonra açılan pencereden install denilir ve tamamlanır.
 
 Linke tıkladıktan sonra açılan açılan pencerede guncelleme (varsa) update edilir.
 
-## Tüm Liste
+## Şablon listesi
+
+> Şablonun bulunduğu konuma gitmek için resme tıklayın.
 
 ### Toplam pixel sayısı =1553095
 
 #### VoidGirl
-Merkez Konumuna git: [](http://pixelcanvas.io/@-1197,-421)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/test.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/test.png)](http://pixelcanvas.io/@-1197,-421)
 
 #### DiscordYazisi
-Merkez Konumuna git: [](http://pixelcanvas.io/@333,-1387)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/DiscordTR.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/DiscordTR.png)](http://pixelcanvas.io/@333,-1387)
 
 #### AnaBayrak
-Merkez Konumuna git: [](http://pixelcanvas.io/@408,-1829)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/bayrak.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/bayrak.png)](http://pixelcanvas.io/@408,-1829)
 
 #### pkkUzerineBayrak
-Merkez Konumuna git: [](http://pixelcanvas.io/@-3825,-160)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/minitr.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/minitr.png)](http://pixelcanvas.io/@-3825,-160)
 
 #### AzerbaycanBayragi
-Merkez Konumuna git: [](http://pixelcanvas.io/@-413,-2073)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/aze.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/aze.png)](http://pixelcanvas.io/@-413,-2073)
 
 #### GalatasarayAslan
-Merkez Konumuna git: [](http://pixelcanvas.io/@-356,-1878)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/gsaslan.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/gsaslan.png)](http://pixelcanvas.io/@-356,-1878)
 
 #### GalatasarayLogo
-Merkez Konumuna git: [](http://pixelcanvas.io/@-472,-1873)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/gslogo.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/gslogo.png)](http://pixelcanvas.io/@-472,-1873)
 
 #### FenrbahceProje
-Merkez Konumuna git: [](http://pixelcanvas.io/@-578,-2400)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/FenerProje.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/FenerProje.png)](http://pixelcanvas.io/@-578,-2400)
 
 #### GalatasarayDiscord
-Merkez Konumuna git: [](http://pixelcanvas.io/@-611,-1924)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/gsyazi.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/gsyazi.png)](http://pixelcanvas.io/@-611,-1924)
 
 #### GsMetinOktay
-Merkez Konumuna git: [](http://pixelcanvas.io/@-613,-1853)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/gsmetinoktay.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/gsmetinoktay.png)](http://pixelcanvas.io/@-613,-1853)
 
 #### MedyaKim
-Merkez Konumuna git: [](http://pixelcanvas.io/@-231,-1865)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/medyakim.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/medyakim.png)](http://pixelcanvas.io/@-231,-1865)
 
 #### 15temmuz
-Merkez Konumuna git: [](http://pixelcanvas.io/@-823,-2027)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/15temmuz.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/15temmuz.png)](http://pixelcanvas.io/@-823,-2027)
 
 #### BesiktasLogo
-Merkez Konumuna git: [](http://pixelcanvas.io/@-209,-2550)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/BesiktasLogo.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/BesiktasLogo.png)](http://pixelcanvas.io/@-209,-2550)
 
 #### KucukKupa
-Merkez Konumuna git: [](http://pixelcanvas.io/@-441,-1766)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/kucukKupa.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/kucukKupa.png)](http://pixelcanvas.io/@-441,-1766)
 
 #### KayiBayragi
-Merkez Konumuna git: [](http://pixelcanvas.io/@952,-2234)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/kayibayragi.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/kayibayragi.png)](http://pixelcanvas.io/@952,-2234)
 
 #### AtaturkImzali
-Merkez Konumuna git: [](http://pixelcanvas.io/@-243,-2230)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/ataturk2.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/ataturk2.png)](http://pixelcanvas.io/@-243,-2230)
 
 #### AtaturkImzali2
-Merkez Konumuna git: [](http://pixelcanvas.io/@-2336,-2874)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/ataturk3.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/ataturk3.png)](http://pixelcanvas.io/@-2336,-2874)
 
 #### Ataturk
-Merkez Konumuna git: [](http://pixelcanvas.io/@105,-2239)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/ataturk.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/ataturk.png)](http://pixelcanvas.io/@105,-2239)
 
 #### AtaturkYazisi
-Merkez Konumuna git: [](http://pixelcanvas.io/@81,-2276)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/ataturk5.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/ataturk5.png)](http://pixelcanvas.io/@81,-2276)
 
 #### BesiktasKartal
-Merkez Konumuna git: [](http://pixelcanvas.io/@-288,-2505)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/Kartal.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/Kartal.png)](http://pixelcanvas.io/@-288,-2505)
 
 #### TSKlogosu
-Merkez Konumuna git: [](http://pixelcanvas.io/@-3688,-206)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/tsk.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/tsk.png)](http://pixelcanvas.io/@-3688,-206)
 
 #### ZeytinDali
-Merkez Konumuna git: [](http://pixelcanvas.io/@-3821,-95)
-![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/zeytind.png)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/zeytind.png)](http://pixelcanvas.io/@-3821,-95)

@@ -174,8 +174,8 @@ function exportMd() {
     Object.keys(template_list).map(function (index, ele) {
         var eles = template_list[index];
         mdstr += '\n#### ' + index;
-        mdstr += '\nMerkez Konumuna git: [](http://pixelcanvas.io/@' + Math.floor(eles.x + eles.width / 2) + ',' + Math.floor(eles.y + eles.height / 2) + ')';
-        mdstr += '\n![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/' + eles.name + ')';
+        mdstr += '\n[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/' + eles.name + ')]';
+        mdstr += '(http://pixelcanvas.io/@' + Math.floor(eles.x + eles.width / 2) + ',' + Math.floor(eles.y + eles.height / 2) + ')'
         mdstr += '\n';
         ttlpx += eles.width * eles.height;
     });
