@@ -167,7 +167,21 @@ window.addEventListener('load', function () {
     updateloop();
 
 }, false);
+function exportMd() {
+    var ttlpx = 0;
+    var mdstr = "";
 
+    Object.keys(template_list).map(function (index, ele) {
+        var eles = template_list[index];
+        mdstr += '\n#### ' + index;
+        mdstr += '\nMerkez Konumuna git: [](http://pixelcanvas.io/@' + Math.floor(eles.x + eles.width / 2) + ',' + Math.floor(eles.y + eles.height / 2) + ')';
+        mdstr += '\n![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/' + eles.name + ')';
+        mdstr += '\n';
+        ttlpx += eles.width * eles.height;
+    });
+    mdstr = '### Toplam pixel sayısı =' + ttlpx + '\n' + mdstr;
+    console.log(mdstr);
+}
 function updateloop() {
 
     // console.log("Updating Template List");
@@ -177,6 +191,7 @@ function updateloop() {
     xmlhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
             template_list = JSON.parse(this.responseText);
+            //exportMd();
             if (!toggle_follow)
                 getCenter();
         }
