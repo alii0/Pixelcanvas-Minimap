@@ -173,5 +173,13 @@
     "y": -104,
     "width": 111,
     "height": 15
+      },
+    "FRTR": {
+    "name": "FRTR.png",
+    "x": -140,
+    "y": -619,
+    "width": 707,
+    "height": 423
       }
+  
 }
