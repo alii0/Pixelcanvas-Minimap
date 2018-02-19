@@ -181,5 +181,13 @@
     "width": 707,
     "height": 423
       }
+  },
+    "FRTRmini": {
+    "name": "FRTRmini.png",
+    "x": -193,
+    "y": -550,
+    "width": 38,
+    "height": 20
+      }
   
 }
