@@ -180,5 +180,12 @@
     "y": -619,
     "width": 707,
     "height": 423
+      },
+    "kahraman": {
+    "name": "kahraman.png",
+    "x": -47,
+    "y": -2688,
+    "width": 600,
+    "height": 110
       } 
 }
