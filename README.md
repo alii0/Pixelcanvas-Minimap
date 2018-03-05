@@ -24,10 +24,10 @@ Linke tıkladıktan sonra açılan açılan pencerede guncelleme (varsa) update 
 
 > Şablonun bulunduğu konuma gitmek için resme tıklayın.
 
-### Toplam pixel sayısı =1553095
+### Toplam pixel sayısı =1921108
 
 #### VoidGirl
-[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/test.png)](http://pixelcanvas.io/@-1197,-421)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/VoidGirl.png)](http://pixelcanvas.io/@-1197,-421)
 
 #### DiscordYazisi
 [![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/DiscordTR.png)](http://pixelcanvas.io/@333,-1387)
@@ -91,3 +91,18 @@ Linke tıkladıktan sonra açılan açılan pencerede guncelleme (varsa) update 
 
 #### ZeytinDali
 [![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/zeytind.png)](http://pixelcanvas.io/@-3821,-95)
+
+#### BJKsinir1
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/snr1.png)](http://pixelcanvas.io/@-266,-2553)
+
+#### GurcistanBayrak
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/GurcistanBayrakMini.png)](http://pixelcanvas.io/@-232,-2297)
+
+#### DiscordTSK
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/dc.png)](http://pixelcanvas.io/@-3741,-97)
+
+#### FRTR
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/FRTR.png)](http://pixelcanvas.io/@213,-408)
+
+#### kahraman
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/kahrman.png)](http://pixelcanvas.io/@253,-2633)

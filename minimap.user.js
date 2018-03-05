@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PixelTr Minimap
 // @namespace    http://discord.io/pixeltr
-// @version      3.1.1
+// @version      3.1.2
 // @description  Pixelcanvas Minimap     ☪ | PixelTurkey | ☪
 // @author       Some Anon && Qh0stM4N
 // @match        https://pixelcanvas.io/*
