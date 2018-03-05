@@ -168,6 +168,7 @@ window.addEventListener('load', function () {
 
 }, false);
 function exportMd() {
+    console.clear();
     var ttlpx = 0;
     var mdstr = "";
 
@@ -191,7 +192,7 @@ function updateloop() {
     xmlhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
             template_list = JSON.parse(this.responseText);
-            //exportMd();
+            exportMd();
             if (!toggle_follow)
                 getCenter();
         }
