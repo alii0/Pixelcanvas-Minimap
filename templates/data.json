@@ -187,5 +187,12 @@
     "y": -2688,
     "width": 600,
     "height": 110
-      } 
+      },
+    "TurkYazisi": {
+    "name": "Türk.png",
+    "x": 82,
+    "y": -2320,
+    "width": 84,
+    "height": 37
+      }  
 }
