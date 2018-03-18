@@ -194,5 +194,12 @@
     "y": -2320,
     "width": 84,
     "height": 37
-      }  
+      },
+    "afrin": {
+    "name": "afrin.png",
+    "x": -3785,
+    "y": -72,
+    "width": 187,
+    "height": 81
+      } 
 }
