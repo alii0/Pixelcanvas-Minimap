@@ -201,5 +201,12 @@
     "y": -72,
     "width": 187,
     "height": 81
+      },
+    "faggots": {
+    "name": "faggots.png",
+    "x": 203,
+    "y": -796,
+    "width": 301,
+    "height": 17
       } 
 }
