@@ -20,13 +20,6 @@
     "width": 1227,
     "height": 726
   },
-  "pkkUzerineBayrak": {
-    "name": "minitr.png",
-    "x": -3888,
-    "y": -205,
-    "width": 126,
-    "height": 90
-  },
   "AzerbaycanBayragi": {
     "name": "aze.png",
     "x": -617,
@@ -215,5 +208,12 @@
     "y": -1905,
     "width": 2159,
     "height": 632
+      }, 
+    "TSK_Projesi": {
+    "name": "Proje.png",
+    "x": -4013,
+    "y": -295,
+    "width": 251,
+    "height": 179
       } 
 }
