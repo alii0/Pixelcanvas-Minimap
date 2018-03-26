@@ -215,12 +215,19 @@
     "y": -295,
     "width": 251,
     "height": 179
-            }, 
+       }, 
     "Harita_ve_DC_Yazisi": {
     "name": "cop2.png",
     "x": -205,
     "y": -2400,
     "width": 217,
     "height": 208
-      } 
+      }, 
+    "siyahsancakbayrak": {
+    "name": "siyahsancak.png",
+    "x": 748,
+    "y": -2531,
+    "width": 275,
+    "height": 183
+      }  
 }
