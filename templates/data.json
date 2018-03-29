@@ -124,110 +124,110 @@
     "y": -2287,
     "width": 88,
     "height": 23
-    },
+  },
   "BesiktasKartal": {
     "name": "Kartal.png",
     "x": -307,
     "y": -2524,
     "width": 39,
     "height": 39
-    },
+  },
   "TSKlogosu": {
     "name": "tsk.png",
     "x": -3762,
     "y": -295,
     "width": 148,
     "height": 178
-    },
+  },
   "ZeytinDali": {
     "name": "zeytind.png",
     "x": -3841,
     "y": -110,
     "width": 40,
     "height": 30
-    },
+  },
   "BJKsinir1": {
     "name": "snr1.png",
     "x": -267,
     "y": -2588,
     "width": 2,
     "height": 71
-     },
+  },
   "GurcistanBayrak": {
     "name": "GurcistanBayrakMini.png",
     "x": -249,
     "y": -2310,
     "width": 35,
     "height": 27
-     },
-    "DiscordTSK": {
+  },
+  "DiscordTSK": {
     "name": "dc.png",
     "x": -3796,
     "y": -104,
     "width": 111,
     "height": 15
-      },
-    "FRTR": {
+  },
+  "FRTR": {
     "name": "FRTR.png",
     "x": -140,
     "y": -619,
     "width": 707,
     "height": 423
-      },
-    "kahraman": {
+  },
+  "kahraman": {
     "name": "hero.png",
     "x": -47,
     "y": -2688,
     "width": 600,
     "height": 119
-      },
-    "TurkYazisi": {
+  },
+  "TurkYazisi": {
     "name": "Türk.png",
     "x": 82,
     "y": -2320,
     "width": 84,
     "height": 37
-      },
-    "afrin": {
+  },
+  "afrin": {
     "name": "afrin.png",
     "x": -3785,
     "y": -72,
     "width": 187,
     "height": 81
-      },
-    "faggots": {
+  },
+  "faggots": {
     "name": "faggots.png",
     "x": 203,
     "y": -796,
     "width": 301,
     "height": 17
-      },
-    "AzerbaycanProjesi": {
+  },
+  "AzerbaycanProjesi": {
     "name": "azerbaycanprojesi.png",
     "x": -987,
     "y": -1905,
     "width": 2159,
     "height": 632
-      }, 
-    "TSK_Projesi": {
+  },
+  "TSK_Projesi": {
     "name": "Proje.png",
     "x": -4013,
     "y": -295,
     "width": 251,
     "height": 179
-       }, 
-    "Harita_ve_DC_Yazisi": {
+  },
+  "Harita_ve_DC_Yazisi": {
     "name": "cop2.png",
     "x": -205,
     "y": -2400,
     "width": 217,
     "height": 208
-      }, 
-    "siyahsancakbayrak": {
+  },
+  "siyahsancakbayrak": {
     "name": "siyahsancak.png",
     "x": 748,
     "y": -2531,
     "width": 275,
     "height": 183
-      }  
+  }
 }
