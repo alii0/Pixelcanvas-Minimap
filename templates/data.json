@@ -20,13 +20,6 @@
     "width": 1227,
     "height": 726
   },
-  "pkkUzerineBayrak": {
-    "name": "minitr.png",
-    "x": -3888,
-    "y": -205,
-    "width": 126,
-    "height": 90
-  },
   "AzerbaycanBayragi": {
     "name": "aze.png",
     "x": -617,
@@ -182,10 +175,59 @@
     "height": 423
       },
     "kahraman": {
-    "name": "kahrman.png",
+    "name": "hero.png",
     "x": -47,
     "y": -2688,
     "width": 600,
-    "height": 110
-      } 
+    "height": 119
+      },
+    "TurkYazisi": {
+    "name": "Türk.png",
+    "x": 82,
+    "y": -2320,
+    "width": 84,
+    "height": 37
+      },
+    "afrin": {
+    "name": "afrin.png",
+    "x": -3785,
+    "y": -72,
+    "width": 187,
+    "height": 81
+      },
+    "faggots": {
+    "name": "faggots.png",
+    "x": 203,
+    "y": -796,
+    "width": 301,
+    "height": 17
+      },
+    "AzerbaycanProjesi": {
+    "name": "azerbaycanprojesi.png",
+    "x": -987,
+    "y": -1905,
+    "width": 2159,
+    "height": 632
+      }, 
+    "TSK_Projesi": {
+    "name": "Proje.png",
+    "x": -4013,
+    "y": -295,
+    "width": 251,
+    "height": 179
+       }, 
+    "Harita_ve_DC_Yazisi": {
+    "name": "cop2.png",
+    "x": -205,
+    "y": -2400,
+    "width": 217,
+    "height": 208
+      }, 
+    "siyahsancakbayrak": {
+    "name": "siyahsancak.png",
+    "x": 748,
+    "y": -2531,
+    "width": 275,
+    "height": 183
+      }  
 }
