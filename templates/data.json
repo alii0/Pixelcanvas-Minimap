@@ -229,5 +229,12 @@
     "y": -2531,
     "width": 275,
     "height": 183
+     },
+  "Pixel_Art_1": {
+    "name": "pixelart.png",
+    "x": -982,
+    "y": -2711,
+    "width": 93,
+    "height": 68
    }
 }
