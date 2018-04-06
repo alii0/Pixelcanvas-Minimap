@@ -243,5 +243,33 @@
     "y": -2347,
     "width": 49,
     "height": 35
+   },
+  "Pixel_TR_Orta": {
+    "name": "PixelTRrta.png",
+    "x": 176,
+    "y": -509,
+    "width": 75,
+    "height": 75
+   },
+  "PixelFB_Orta": {
+    "name": "PixelFenerOrta.png",
+    "x": 332,
+    "y": -509,
+    "width": 75,
+    "height": 75
+      },
+  "PixelGS_Orta": {
+    "name": "PixelGSOrta.png",
+    "x": 254,
+    "y": -509,
+    "width": 75,
+    "height": 75
+     },
+  "Siyah_Sancak_Orta": {
+    "name": "SiyahSancakOrta.png",
+    "x": 98
+    "y": -509,
+    "width": 75,
+    "height": 75
    }
 }
