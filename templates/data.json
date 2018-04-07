@@ -264,5 +264,12 @@
     "y": -509,
     "width": 75,
     "height": 75
+    },
+  "PixelAZE_Orta": {
+    "name": "AzeOrta.png",
+    "x": 98,
+    "y": -509,
+    "width": 75,
+    "height": 75
    }
 }
