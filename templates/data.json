@@ -271,5 +271,12 @@
     "y": -509,
     "width": 75,
     "height": 75
+       },
+  "Ermeni_Amkleri": {
+    "name": "Border.png",
+    "x": -987,
+    "y": -2363,
+    "width": 75,
+    "height": 40
    }
 }
