@@ -106,3 +106,48 @@ Linke tıkladıktan sonra açılan açılan pencerede guncelleme (varsa) update 
 
 #### kahraman
 [![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/kahrman.png)](http://pixelcanvas.io/@253,-2633)
+
+#### TurkYazisi
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/Türk.png)](http://pixelcanvas.io/@124,-2302)
+
+#### afrin
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/afrin.png)](http://pixelcanvas.io/@-3692,-32)
+
+#### faggots
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/faggots.png)](http://pixelcanvas.io/@353,-788)
+
+#### AzerbaycanProjesi
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/azerbaycanprojesi.png)](http://pixelcanvas.io/@92,-1589)
+
+#### TSK_Projesi
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/Proje.png)](http://pixelcanvas.io/@-3888,-206)
+
+#### Harita_ve_DC_Yazisi
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/cop2.png)](http://pixelcanvas.io/@-97,-2296)
+
+#### siyahsancakbayrak
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/siyahsancak.png)](http://pixelcanvas.io/@885,-2440)
+
+#### Pixel_Art_1
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/pixelart.png)](http://pixelcanvas.io/@-936,-2678)
+
+#### Pixel_Art_2
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/pixel_art_2.png)](http://pixelcanvas.io/@-278,-2330)
+
+#### Pixel_TR_Orta
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/PixelTROrta.png)](http://pixelcanvas.io/@213,-472)
+
+#### PixelFB_Orta
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/PixelFenerOrta.png)](http://pixelcanvas.io/@369,-472)
+
+#### PixelGS_Orta
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/PixelGSOrta.png)](http://pixelcanvas.io/@291,-472)
+
+#### Siyah_Sancak_Orta
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/SiyahSancakOrta.png)](http://pixelcanvas.io/@135,-472)
+
+#### PixelAZE_Orta
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/AzeOrta.png)](http://pixelcanvas.io/@57,-472)
+
+#### Ermeni_Amkleri
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/border.png)](http://pixelcanvas.io/@-950,-2343)
