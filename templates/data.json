@@ -278,5 +278,19 @@
     "y": -2363,
     "width": 75,
     "height": 40
+        },
+  "Pixel_Art_Dondurmalar": {
+    "name": "Pixel_Art_Dondurma.png",
+    "x": 1178,
+    "y": -1849,
+    "width": 65,
+    "height": 20
+       },
+  "Super_Mario_World": {
+    "name": "SuperMarioWorld.png",
+    "x": 1207,
+    "y": -1804,
+    "width": 180,
+    "height": 203
    }
 }
