@@ -147,7 +147,13 @@ Linke tıkladıktan sonra açılan açılan pencerede guncelleme (varsa) update 
 [![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/SiyahSancakOrta.png)](http://pixelcanvas.io/@135,-472)
 
 #### PixelAZE_Orta
-[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/AzeOrta.png)](http://pixelcanvas.io/@57,-472)
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/azef.png)](http://pixelcanvas.io/@57,-472)
 
 #### Ermeni_Amkleri
 [![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/border.png)](http://pixelcanvas.io/@-950,-2343)
+
+#### Pixel_Art_Dondurmalar
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/Pixel_Art_Dondurma.png)](http://pixelcanvas.io/@1210,-1839)
+
+#### Super_Mario_World
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/SuperMarioWorld.png)](http://pixelcanvas.io/@1297,-1703)
