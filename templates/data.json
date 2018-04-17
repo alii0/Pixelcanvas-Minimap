@@ -306,5 +306,12 @@
     "y": -1960,
     "width": 150,
     "height": 56
+       },
+  "Pixel_Art_Kalpler": {
+    "name": "Pixel_Art_Kalpler.png",
+    "x": 1126,
+    "y": -2040,
+    "width": 174,
+    "height": 108
    }
 }
