@@ -313,5 +313,12 @@
     "y": -2152,
     "width": 222,
     "height": 193
+   },
+  "ortaturan": {
+    "name": "turan.png",
+    "x": -136,
+    "y": -509,
+    "width": 75,
+    "height": 75
    }
 }
