@@ -320,5 +320,12 @@
     "y": -509,
     "width": 75,
     "height": 75
+   },
+  "ortanazi": {
+    "name": "nazi.png",
+    "x": 488,
+    "y": -353,
+    "width": 75,
+    "height": 75
    }
 }
