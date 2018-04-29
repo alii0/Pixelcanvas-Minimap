@@ -334,5 +334,12 @@
     "y": -1463,
     "width": 101,
     "height": 108
+    },
+  "Turkiye_Fransa": {
+    "name": "TRFR.png",
+    "x": 2005,
+    "y": 1143,
+    "width": 181,
+    "height": 146
    }
 }
