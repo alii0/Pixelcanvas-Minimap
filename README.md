@@ -154,3 +154,30 @@ Linke tıkladıktan sonra açılan açılan pencerede guncelleme (varsa) update 
 
 #### kerkuk
 [![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/kerkuk.png)](http://pixelcanvas.io/@-415,-286)
+
+#### Aziz_Yildirim
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/Aziz_Yildirim.png)](http://pixelcanvas.io/@-826,-1932)
+
+#### Pixel_Art_Kalpler
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/Pixel_Art_Kalpler.png)](http://pixelcanvas.io/@1213,-1986)
+
+#### 15Temmuz
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/15_Temmuz.png)](http://pixelcanvas.io/@-831,-2078)
+
+#### ortaturan
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/turan.png)](http://pixelcanvas.io/@-99,-472)
+
+#### ortanazi
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/nazi.png)](http://pixelcanvas.io/@525,-316)
+
+#### bursaspor
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/Bursaspor.png)](http://pixelcanvas.io/@-88,-1400)
+
+#### Turkiye_Fransa
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/TRFR.png)](http://pixelcanvas.io/@2059,1216)
+
+#### Nirvana
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/Nirvana.png)](http://pixelcanvas.io/@904,-2621)
+
+#### Pixel_Art_Kus
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/Pixel_Art_Kus.png)](http://pixelcanvas.io/@822,-2579)
