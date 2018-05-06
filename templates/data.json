@@ -376,5 +376,12 @@
     "y": -220,
     "width": 257,
     "height": 145
+   },
+  "TurkPower": {
+    "name": "power.png",
+    "x": -1709,
+    "y": 930,
+    "width": 36,
+    "height": 27
    }
 }
