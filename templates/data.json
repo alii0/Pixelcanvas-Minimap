@@ -376,5 +376,12 @@
     "y": -220,
     "width": 257,
     "height": 145
+   },
+  "CommieTears": {
+    "name": "tears.png",
+    "x": -1380,
+    "y": 957,
+    "width": 131,
+    "height": 131
    }
 }
