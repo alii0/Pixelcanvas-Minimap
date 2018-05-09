@@ -24,7 +24,7 @@ Linke tıkladıktan sonra açılan açılan pencerede guncelleme (varsa) update 
 
 > Şablonun bulunduğu konuma gitmek için resme tıklayın.
 
-### Toplam pixel sayısı =1921108
+### Toplam pixel sayısı =3691900
 
 #### VoidGirl
 [![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/VoidGirl.png)](http://pixelcanvas.io/@-1197,-421)
