@@ -181,3 +181,15 @@ Linke tıkladıktan sonra açılan açılan pencerede guncelleme (varsa) update 
 
 #### Pixel_Art_Kus
 [![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/Pixel_Art_Kus.png)](http://pixelcanvas.io/@822,-2579)
+
+#### EMFortakProje
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/emfortak.png)](http://pixelcanvas.io/@-1554,1061)
+
+#### Erdogan
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/erdogan.png)](http://pixelcanvas.io/@-1758,997)
+
+#### CommieTears
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/tears.png)](http://pixelcanvas.io/@-1314,1023)
+
+#### EnverPasa
+[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/enver.png)](http://pixelcanvas.io/@-1270,1144)
