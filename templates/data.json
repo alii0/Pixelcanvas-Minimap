@@ -125,13 +125,6 @@
     "width": 39,
     "height": 39
   },
-  "TSKlogosu": {
-    "name": "tsk.png",
-    "x": -3762,
-    "y": -295,
-    "width": 148,
-    "height": 178
-  },
   "BJKsinir1": {
     "name": "snr1.png",
     "x": -267,
@@ -146,13 +139,6 @@
     "width": 35,
     "height": 27
   },
-  "DiscordTSK": {
-    "name": "dc.png",
-    "x": -3796,
-    "y": -104,
-    "width": 111,
-    "height": 15
-  },
   "kahraman": {
     "name": "hero.png",
     "x": -47,
@@ -166,13 +152,6 @@
     "y": -2320,
     "width": 84,
     "height": 37
-  },
-  "afrin": {
-    "name": "afrin.png",
-    "x": -3785,
-    "y": -72,
-    "width": 187,
-    "height": 81
   },
   "faggots": {
     "name": "faggots.png",
