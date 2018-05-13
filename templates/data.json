@@ -362,5 +362,12 @@
     "y": -2818,
     "width": 100,
     "height": 126
+     },
+  "Pixel_Art_Silah": {
+    "name": "Silah.png",
+    "x": -3967,
+    "y": -97,
+    "width": 40,
+    "height": 15
    }
 }
