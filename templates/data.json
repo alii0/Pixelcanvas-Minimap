@@ -404,5 +404,12 @@
     "y": -4199,
     "width": 74,
     "height": 120
+   },
+  "The_Golden_Trio": {
+    "name": "trio.png",
+    "x": 275,
+    "y": 183,
+    "width": 74,
+    "height": 120
    }
 }
