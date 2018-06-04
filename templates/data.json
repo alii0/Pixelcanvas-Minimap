@@ -411,5 +411,12 @@
     "y": -2915,
     "width": 275,
     "height": 183
+   },
+  "Emir_Kaya": {
+    "name": "EK.png",
+    "x": 1096,
+    "y": -2715,
+    "width": 324,
+    "height": 99
    }
 }
