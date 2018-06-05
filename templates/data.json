@@ -425,5 +425,12 @@
     "y": 0,
     "width": 100,
     "height": 100
+   },
+  "Bucaspor": {
+    "name": "Bucaspor.png",
+    "x": -6874,
+    "y": -2103,
+    "width": 300,
+    "height": 300
    }
 }
