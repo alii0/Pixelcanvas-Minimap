@@ -432,5 +432,12 @@
     "y": -2103,
     "width": 300,
     "height": 300
+   },
+  "KeepYourCityClean": {
+    "name": "KeepYour.png",
+    "x": -3757,
+    "y": -54,
+    "width": 89,
+    "height": 133
    }
 }
