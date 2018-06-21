@@ -446,5 +446,12 @@
     "y": -360,
     "width": 130,
     "height": 140
+   },
+  "KomunistAnaBaseSaldırı": {
+    "name": "komunist_ana_base.png",
+    "x": -2218,
+    "y": 3249,
+    "width": 747,
+    "height": 543
    }
 }
