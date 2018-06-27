@@ -460,5 +460,12 @@
     "y": -2895,
     "width": 613,
     "height": 121
+   },
+  "GS_Kucuk_Aslan": {
+    "name": "aslans.png",
+    "x": -307,
+    "y": -1810,
+    "width": 90,
+    "height": 90
    }
 }
